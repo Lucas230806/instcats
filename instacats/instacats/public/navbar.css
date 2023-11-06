@@ -1,0 +1,17 @@
+.nav-container{
+    display: flex;
+background-color: #EB6440;
+justify-content: space-around;
+}
+
+.nav-container img{
+max-width: 73px;
+max-height: 80px;
+transform: rotate(180deg);
+}
+
+.link-container {
+max-width: 73px;
+max-height: 80px;
+transform: rotate(180deg);
+}
