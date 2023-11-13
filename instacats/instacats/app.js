@@ -6,7 +6,7 @@ const flash = require("express-flash");
 
 const app = express();
 
-// const conn = require('./db/conn')
+ const conn = require('./db/conn')
 
 const hbs = exphbs.create({
   partialsDir: ['views/partials']
